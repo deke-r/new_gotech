@@ -1,0 +1,22 @@
+.banner_main {
+    background-image: url(../assets/images/hdgf0pj52x151.jpg);
+    height: 100vh; 
+    background-size: cover;
+    position: relative; 
+}
+
+
+
+.container-overlay {
+    z-index: 2; 
+    position: relative; 
+    color: white; 
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    /* justify-content: centers; */
+    align-items: center;
+    height: 100%; 
+}
+
+

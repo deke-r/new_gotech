@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5f2f381.css",
+    "main.js": "/static/js/main.37111555.js",
+    "static/media/videoplayback.webm": "/static/media/videoplayback.f44e08ece29194117db8.webm",
+    "static/media/hdgf0pj52x151.jpg": "/static/media/hdgf0pj52x151.09a210b247aa383a9600.jpg",
+    "static/media/png-transparent-logo-mastercard-product-font-mastercard-text-orange-logo-removebg-preview.png": "/static/media/png-transparent-logo-mastercard-product-font-mastercard-text-orange-logo-removebg-preview.41b0de5d5e25add276cf.png",
+    "static/media/zee.png": "/static/media/zee.a943b81631eb409d9d94.png",
+    "static/media/et.png": "/static/media/et.b2da15c0536c8d0d269f.png",
+    "static/media/287-2872513_bbc-earth-logo-hd-png-download.png": "/static/media/287-2872513_bbc-earth-logo-hd-png-download.e8545ce502f6b00333ad.png",
+    "static/media/big_logo-1.jpg": "/static/media/big_logo-1.c627962c2c2a9b94033c.jpg",
+    "static/media/tick-removebg-preview.png": "/static/media/tick-removebg-preview.d3f33c871f917716c41e.png",
+    "static/media/Visa_Inc._logo.svg.png": "/static/media/Visa_Inc._logo.svg.7e06c9b8ba7be583acf0.png",
+    "static/media/360_F_618925574_b3n9JfcmFr5GNa10SvNdpDFyHL5D3dIw.jpg": "/static/media/360_F_618925574_b3n9JfcmFr5GNa10SvNdpDFyHL5D3dIw.831ae7c0b5da1d23db61.jpg",
+    "static/media/tedx4450.jpg": "/static/media/tedx4450.a885bbbb3e885b54ccfc.jpg",
+    "static/media/UPI-Logo.png": "/static/media/UPI-Logo.0fb497d1b7b2e424e7b6.png",
+    "static/media/6606-male-user.png": "/static/media/6606-male-user.402c7e92d45896216164.png",
+    "static/media/images.jpeg": "/static/media/images.dd2e84e5435b13ff65f2.jpeg",
+    "index.html": "/index.html",
+    "main.f5f2f381.css.map": "/static/css/main.f5f2f381.css.map",
+    "main.37111555.js.map": "/static/js/main.37111555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f2f381.css",
+    "static/js/main.37111555.js"
+  ]
+}
